@@ -25,8 +25,8 @@ cd blog-app
 npm install
 ```
 3. **Set up MongoDB**  
--Ensure MongoDB is installed and running on your machine.  
--Create a .env file in the root directory and add your MongoDB connection string
+- Ensure MongoDB is installed and running on your machine.  
+- Create a .env file in the root directory and add your MongoDB connection string
 ```
 MONGODB_URI=your_mongodb_connection_string
 ```
@@ -41,13 +41,13 @@ node app.js
 
 ## Features
 
-1. **Compose**  
--Create a new blog by providing a title and the content of the blog on `/compose`
+**Compose**  
+- Create a new blog by providing a title and the content of the blog on `/compose`
 
-2. **View**  
+**View**  
 - View the posted blogs on the home page
 
-3. **Expand**  
+**Expand**  
 - Click on Read More to read the full content of the blogs.
 
 ## Technologies  
