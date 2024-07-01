@@ -2,7 +2,7 @@
 
 ## Overview
 
-A brief description of your project, what it does, and why it exists.
+A dynamic and user-friendly blog application built with Express, EJS, and MongoDB. This app allows users to create and read blog posts. The intuitive interface designed with EJS templates makes it easy for users to interact with the application, while MongoDB provides a robust backend for storing blog data. Perfect for bloggers who want a simple and effective way to manage their content.
 
 ## Table of Contents
 
@@ -40,21 +40,16 @@ node app.js
 - Follow the on-screen instructions to interact with the application.
 
 ## Features
-
-**Compose**  
+ 
 - Create a new blog by providing a title and the content of the blog on `/compose`
-
-**View**  
 - View the posted blogs on the home page
-
-**Expand**  
 - Click on Read More to read the full content of the blogs.
 
 ## Technologies  
 
-+ Express: Web framework for Node.js.
-+ EJS: Templating engine for generating HTML.
-+ MongoDB: NoSQL database for storing data.
+- Express: Web framework for Node.js.
+- EJS: Templating engine for generating HTML.
+- MongoDB: NoSQL database for storing data.
 
 
 ## Contributing  
