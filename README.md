@@ -27,10 +27,14 @@ cd projectname
 npm install
 ```
 5. **Set up MongoDB**
--Ensure MongoDB is installed and running on your machine.
--Create a .env file in the root directory and add your MongoDB connection string
-```MONGODB_URI=your_mongodb_connection_string```
+***Ensure MongoDB is installed and running on your machine.***
+***Create a .env file in the root directory and add your MongoDB connection string***
+```
+MONGODB_URI=your_mongodb_connection_string
+```
 
-6. **Start up the application**
-```node app.js```
+7. **Start up the application**
+```
+node app.js
+```
 
