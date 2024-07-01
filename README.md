@@ -36,25 +36,25 @@ node app.js
 ```
 ## Usage  
 
--Open your browser and navigate to `http://localhost:3000.`  
--Follow the on-screen instructions to interact with the application.
+- Open your browser and navigate to `http://localhost:3000.`  
+- Follow the on-screen instructions to interact with the application.
 
 ## Features
 
-1. **Compose**
+1. **Compose**  
 -Create a new blog by providing a title and the content of the blog on `/compose`
 
 2. **View**  
--View the posted blogs on the home page
+- View the posted blogs on the home page
 
 3. **Expand**  
--Click on Read More to read the full content of the blogs.
+- Click on Read More to read the full content of the blogs.
 
 ## Technologies  
 
-+Express: Web framework for Node.js.
-+EJS: Templating engine for generating HTML.
-+MongoDB: NoSQL database for storing data.
++ Express: Web framework for Node.js.
++ EJS: Templating engine for generating HTML.
++ MongoDB: NoSQL database for storing data.
 
 
 ## Contributing  
