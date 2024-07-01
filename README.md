@@ -22,18 +22,18 @@ git clone https://github.com/Aaryan246/blog-app.git
 cd projectname
 ```
 
-3. **Install Dependencies**
+2. **Install Dependencies**
 ```
 npm install
 ```
-5. **Set up MongoDB**
-***Ensure MongoDB is installed and running on your machine.***
-***Create a .env file in the root directory and add your MongoDB connection string***
+3. **Set up MongoDB**  
+Ensure MongoDB is installed and running on your machine.  
+Create a .env file in the root directory and add your MongoDB connection string
 ```
 MONGODB_URI=your_mongodb_connection_string
 ```
 
-7. **Start up the application**
+4. **Start up the application**
 ```
 node app.js
 ```
